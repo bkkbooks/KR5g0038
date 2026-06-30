@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0038/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0038/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 全真坐鉢捷法
+  date: '2015-08-29 02:49:19.840886'
+  source:
+    repository: kanripo
+    path: KR5g0038
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0038_000-ZTDZ.yaml, hash: 'sha256:836c6dd78b5c664a4be7ecd0fc18ed8e9ce185ffa5708a348849b6cd6abc4bf1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0038_000-ZTDZ.markers.yaml, hash: 'sha256:eab1c254cef18daae2391fd38ee8fd5b560c55b4d3fef5243b2cd31d5973ed94'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0038_SJB_000-320127b
+    span:
+    - body
+    - 0
+    - 671
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:cfda04791152f2b8c0139e7bd234201c66a8e9af0d77d69350b0392fc3e662bf
